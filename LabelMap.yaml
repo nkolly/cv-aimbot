@@ -1,0 +1,5 @@
+train: images/train
+val: images/valid
+
+nc: 2
+names: ['enemy', 'head']
